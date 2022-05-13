@@ -1,0 +1,17 @@
+canvas
+{
+    box-shadow: 10px 10px 10px rgb(247, 129, 3);
+    border-radius: 10px;
+}
+
+.heading
+{
+font-size: 25px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
